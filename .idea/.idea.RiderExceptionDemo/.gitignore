@@ -1,0 +1,21 @@
+# User specific
+**/workspace.xml
+**/tasks.xml
+**/shelf/*
+**/dictionaries
+**/httpRequests/
+
+# Sensitive or high-churn files
+# Datasource local storage ignored files
+**/dataSources/
+**/dataSources.ids
+**/dataSources.local.xml
+**/sqlDataSources.xml
+**/dynamic.xml
+
+# Rider auto-generates files
+**/*.iml
+**/contentModel.xml
+**/modules.xml
+**/.name
+projectSettingsUpdater.xml
